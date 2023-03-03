@@ -4,7 +4,7 @@ const mongoose=require("mongoose")
 const hbs=require("hbs")
 const dotenv=require("dotenv")
 dotenv.config()
-const port=9000
+const port=5000
 const url= "mongodb+srv://jinal:jinal123@cluster0.kg20vuu.mongodb.net/project?retryWrites=true&w=majority"
 
 const path=require("path")
