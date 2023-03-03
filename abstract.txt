@@ -1,0 +1,61 @@
+*************Abstact for ecommerce website************
+ > Abstract
+
+The drivers for electronic commerce are both technological (under the tremendous
+pressure of innovation) and business oriented. This paper will highlight some
+guidelines for companies who are entering into E-commerce to create an E-commerce
+strategy or who already have an E-commerce presence to revise their existing
+strategy.
+
+E-Commerce is now seen as a reality for many businesses and a normal part of a
+business plan. The immediate benefits, in terms of cost savings, efficiencies and
+enhanced profitability are clear at every stage in the supply chain. Adopting
+ebusiness is no longer a competitive advantage, but a normal business process, without
+which an enterprise is unlikely to survive in the New economy. Year 2000 saw
+many Dot-com companies built up and many companies going into E-commerce
+however now it is a different story, more and more companies are failing, and
+investors are becoming cautious to invest money into Internet ventures. There is more
+cash needed then was expected. Some of them had to get on the bandwagon as
+everybody else were and didn't want to be left behind, and now that the bubble has
+burst they are facing the consequences. This paper will aim to help companies to
+realize what they need to follow to have a successful business if they plan well and
+have a good strategy.
+
+This paper also identifies that implementing an E-commerce strategy is neither
+straightforward nor cheap, for example it comprises a complete rethink of traditional
+modes of behavior, the need and importance to involve internal staff and external
+suppliers and customers right from the conceptual stage, need to re-evaluate
+company's core competences, and requires substantial investment in IT.
+
+Executives of successful E-commerce companies need to be strategic thinkers
+focusing on customers, markets, and competitive positioning, as well as on internal
+operations. Determination of a suitable E-commerce strategy begins with
+identification of the opportunities and risks. The task of tracking the changing
+environments, understanding customer groups, requires formulating strategies and
+planning their implementation.
+
+The paper follows a structure of exploring ideas of having an online presence, going
+onto defining the business aims, looking at the feasibility of the project, where the
+industry environment and competitor analysis will be looked at moving on to the
+planning and design phase, and finally implementing and assessment which needs to
+be done continually as an iterative process to learn from mistakes, improve and
+further meet new aims. Throughout the various stages set of questions have been
+included that needs to be asked and answered by the organization.
+
+  > Conclusions
+
+Strategic planning clarifies what an E-commerce project should do or focus on, with
+respect to the company's mission and the given business environment. It is essential
+to have a well thought out strategy for E-commerce. It is important to identify the
+critical success factors, important to carry out a pilot study and carrying out Web
+assessment, to get feedback. Long-term winners on the web will be those who
+remember that the business fundamentals still apply. 
+
+  1:Showing steps used to formulate E-commerce Strategy
+
+	Step 1: Initiation
+	Step 2:Aims
+	Step 3:Feasibilty 
+	Step 4:Planning/Design
+	Step 5: Implementation
+	Step 6: Strategy assessment
